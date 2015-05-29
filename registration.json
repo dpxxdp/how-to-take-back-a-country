@@ -7,24 +7,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -32,24 +32,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -63,24 +63,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -88,24 +88,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -119,24 +119,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -144,24 +144,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -175,24 +175,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -200,24 +200,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -231,24 +231,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -256,24 +256,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -287,24 +287,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -312,24 +312,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -337,203 +337,2803 @@
     },
     {
         "name": "Colorado",
-        "abbreviation": "CO"
+        "abbreviation": "CO",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Connecticut",
-        "abbreviation": "CT"
+        "abbreviation": "CT",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Delaware",
-        "abbreviation": "DE"
+        "abbreviation": "DE",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "District Of Columbia",
-        "abbreviation": "DC"
+        "abbreviation": "DC",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Federated States Of Micronesia",
-        "abbreviation": "FM"
+        "abbreviation": "FM",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Florida",
-        "abbreviation": "FL"
+        "abbreviation": "FL",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Georgia",
-        "abbreviation": "GA"
+        "abbreviation": "GA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Guam",
-        "abbreviation": "GU"
+        "abbreviation": "GU",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Hawaii",
-        "abbreviation": "HI"
+        "abbreviation": "HI",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Idaho",
-        "abbreviation": "ID"
+        "abbreviation": "ID",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Illinois",
-        "abbreviation": "IL"
+        "abbreviation": "IL",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Indiana",
-        "abbreviation": "IN"
+        "abbreviation": "IN",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Iowa",
-        "abbreviation": "IA"
+        "abbreviation": "IA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Kansas",
-        "abbreviation": "KS"
+        "abbreviation": "KS",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Kentucky",
-        "abbreviation": "KY"
+        "abbreviation": "KY",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Louisiana",
-        "abbreviation": "LA"
+        "abbreviation": "LA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Maine",
-        "abbreviation": "ME"
+        "abbreviation": "ME",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Marshall Islands",
-        "abbreviation": "MH"
+        "abbreviation": "MH",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Maryland",
-        "abbreviation": "MD"
+        "abbreviation": "MD",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Massachusetts",
-        "abbreviation": "MA"
+        "abbreviation": "MA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Michigan",
-        "abbreviation": "MI"
+        "abbreviation": "MI",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Minnesota",
-        "abbreviation": "MN"
+        "abbreviation": "MN",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Mississippi",
-        "abbreviation": "MS"
+        "abbreviation": "MS",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Missouri",
-        "abbreviation": "MO"
+        "abbreviation": "MO",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Montana",
-        "abbreviation": "MT"
+        "abbreviation": "MT",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Nebraska",
-        "abbreviation": "NE"
+        "abbreviation": "NE",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Nevada",
-        "abbreviation": "NV"
+        "abbreviation": "NV",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "New Hampshire",
-        "abbreviation": "NH"
+        "abbreviation": "NH",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "New Jersey",
-        "abbreviation": "NJ"
+        "abbreviation": "NJ",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "New Mexico",
-        "abbreviation": "NM"
+        "abbreviation": "NM",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "New York",
-        "abbreviation": "NY"
+        "abbreviation": "NY",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "North Carolina",
-        "abbreviation": "NC"
+        "abbreviation": "NC",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "North Dakota",
-        "abbreviation": "ND"
+        "abbreviation": "ND",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Northern Mariana Islands",
-        "abbreviation": "MP"
+        "abbreviation": "MP",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Ohio",
-        "abbreviation": "OH"
+        "abbreviation": "OH",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Oklahoma",
-        "abbreviation": "OK"
+        "abbreviation": "OK",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Oregon",
-        "abbreviation": "OR"
+        "abbreviation": "OR",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Palau",
-        "abbreviation": "PW"
+        "abbreviation": "PW",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Pennsylvania",
-        "abbreviation": "PA"
+        "abbreviation": "PA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Puerto Rico",
-        "abbreviation": "PR"
+        "abbreviation": "PR",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Rhode Island",
-        "abbreviation": "RI"
+        "abbreviation": "RI",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "South Carolina",
-        "abbreviation": "SC"
+        "abbreviation": "SC",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "South Dakota",
-        "abbreviation": "SD"
+        "abbreviation": "SD",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Tennessee",
-        "abbreviation": "TN"
+        "abbreviation": "TN",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Texas",
-        "abbreviation": "TX"
+        "abbreviation": "TX",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Utah",
-        "abbreviation": "UT"
+        "abbreviation": "UT",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Vermont",
-        "abbreviation": "VT"
+        "abbreviation": "VT",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Virgin Islands",
-        "abbreviation": "VI"
+        "abbreviation": "VI",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Virginia",
-        "abbreviation": "VA"
+        "abbreviation": "VA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Washington",
-        "abbreviation": "WA"
+        "abbreviation": "WA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                    {
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
+                    },
+                    {
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "West Virginia",
@@ -543,24 +3143,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -568,24 +3168,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -599,24 +3199,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -624,24 +3224,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -655,24 +3255,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
@@ -680,24 +3280,24 @@
                 "registrationDeadline": "",
                 "registrationMethods" : [
                     {
-                      method: "internet",
-                      instructions: ["step1","step2","step3"],
-                      sources: [],
+                      "method": "internet",
+                      "instructions": ["step1","step2","step3"],
+                      "sources": [],
                     },
                     {
-                      method: "mail",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "mail",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                     {
-                      method: "inPerson",
-                      locations: [],
-                      sources: [],
+                      "method": "inPerson",
+                      "locations": [],
+                      "sources": [],
                     },
                     {
-                      method: "phone",
-                      instructions: ["step1", "step2", "step3"],
-                      sources: [],
+                      "method": "phone",
+                      "instructions": ["step1", "step2", "step3"],
+                      "sources": [],
                     },
                 ],
             },
