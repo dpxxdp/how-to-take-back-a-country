@@ -3,73 +3,337 @@
         "name": "Alabama",
         "abbreviation": "AL",
         "parties": {
-          "Democrat": {
-            "registrationDeadline": "", //yyyy-mm-dd
-            "registrationMethods" : [
-              {
-                method: "internet",
-                instructions: ["step1","step2","step3"],
-                sources: [],
-              },
-              {
-                method: "mail",
-                instructions: ["step1", "step2", "step3"],
-                sources: [],
-              },
-              {
-                method: "inPerson",
-                locations: [], //GEO JSON
-                sources: [],
-              {
-                method: "phone",
-                instructions: ["step1", "step2", "step3"],
-                sources: [],
-              },
-          },
-          "Republican": {
-            "registrationDeadline": "",
-            "registerSteps" : [
-              { 
-                method: "internet",
-                instructions: ["step1","step2","step3"],
-                sources: [],
-              },
-              {
-                method: "mail",
-                instructions: ["step1", "step2", "step3"],
-                sources: [],
-              },
-              {
-                method: "inPerson",
-                locations: [], //GEO JSON
-                sources: [],
-              {
-                method: "phone",
-                instructions: ["step1", "step2", "step3"],
-                sources: [],
-              },
-          },
-        }
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Alaska",
-        "abbreviation": "AK"
+        "abbreviation": "AK",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "American Samoa",
-        "abbreviation": "AS"
+        "abbreviation": "AS",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Arizona",
-        "abbreviation": "AZ"
+        "abbreviation": "AZ",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Arkansas",
-        "abbreviation": "AR"
+        "abbreviation": "AR",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "California",
-        "abbreviation": "CA"
+        "abbreviation": "CA",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Colorado",
@@ -273,14 +537,170 @@
     },
     {
         "name": "West Virginia",
-        "abbreviation": "WV"
+        "abbreviation": "WV",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Wisconsin",
-        "abbreviation": "WI"
+        "abbreviation": "WI",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     },
     {
         "name": "Wyoming",
-        "abbreviation": "WY"
+        "abbreviation": "WY",
+        "parties": {
+            "Democrat": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+            "Republican": {
+                "registrationDeadline": "",
+                "registrationMethods" : [
+                    {
+                      method: "internet",
+                      instructions: ["step1","step2","step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "mail",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                    {
+                      method: "inPerson",
+                      locations: [],
+                      sources: [],
+                    },
+                    {
+                      method: "phone",
+                      instructions: ["step1", "step2", "step3"],
+                      sources: [],
+                    },
+                ],
+            },
+        },
     }
 ]
